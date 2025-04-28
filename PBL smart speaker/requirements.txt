@@ -1,0 +1,5 @@
+spotipy
+lyricsgenius
+vaderSentiment
+deep-translator
+firebase-admin
